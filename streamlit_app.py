@@ -51,7 +51,7 @@ if "en_tweet" not in st.session_state:
 # *** GENEL SABİTLER ***
 # ****************************************************************
 
-EN_BYLINE_NAME = "By Fuat Kabakci"
+EN_BYLINE_NAME = "By"
 EN_BYLINE_AGENCY = "Anadolu Agency"
 EN_BYLINE_EMAIL = "energy@aa.com.tr"
 
